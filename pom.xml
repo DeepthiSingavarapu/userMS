@@ -14,7 +14,7 @@
 	<name>UserMS</name>
 	<description>User micro-service Springboot</description>
 	<properties>
-		<sonar.projectKey>DeepthiSingavarapi_userMS
+		<sonar.projectKey>DeepthiSingavarapu_userMS
             </sonar.projectKey>
         <sonar.organization>DeepthiSingavarapu</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
